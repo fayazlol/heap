@@ -1,3 +1,24 @@
+HI GUYS, AFTER GIT PULLING THIS, PLEASE RUN THE FOLLOWING COMMANDS IN UR VSCODE TERMINAL:
+
+run npm -i
+ng serve
+
+THIS WILL MAKE SURE THE RELEVANT MODULES ARE INSTALLED YAP
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
